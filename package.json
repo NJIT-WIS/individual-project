@@ -1,0 +1,23 @@
+{
+  "name": "agile-sandrag-dev",
+  "version": "1.0.0",
+  "description": "Embark on an Agile journey, moving from foundational concepts to hands-on application. While the task — creating a \"Hello Professor\" web page — might seem elementary, it encapsulates the essence of modern software development. Through this assignment, you'll gain hands-on experience and a deep understanding of Agile methodologies, tools, and principles.",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^13.4.12",
+    "playwright-core": "^1.36.2",
+    "test": "^3.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
