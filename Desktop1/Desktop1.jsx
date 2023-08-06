@@ -164,6 +164,13 @@ const MyNameIsSandraGeorge = styled('div')({
   left: `235px`,
   top: `654px`,
 });
+const Mailchimp = styled('div')({
+  textAlign: `center`,
+  position: `absolute`,
+  left: `200px`,
+  top: `1000px`,
+  right: `1000px`,
+});
 
 const YouCanContactMeUsing = styled('div')({
   textAlign: `left`,
@@ -238,6 +245,7 @@ const Vector2 = styled('img')({
   top: `1916px`,
 });
 
+
 function Desktop1(props) {
   return (
     <Desktop11 className={props.className}>
@@ -263,7 +271,12 @@ the States in 2011. I live in New Jersey. I graduated Rutgers with a degree in
 Information Technology with most courses focusing on Cybersecurity, as I want to
  have a career in cybersecurity. I am currently employed with TCS and looking for 
 a better job in my field. I love music, sports, psychology and technology`}
+
         </MyNameIsSandraGeorge>
+        <Mailchimp>
+        <iframe src="/test.html" width="100%" height="250"></iframe>
+        </Mailchimp>
+       
         <YouCanContactMeUsing>
           {`You can contact me using these links :`}
         </YouCanContactMeUsing>
