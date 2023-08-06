@@ -270,7 +270,7 @@ function Desktop1(props) {
           alt={'profilepicture 1'}
         />
         <CybersecurityAndCodi>
-          {`Cybersecurity and coding enthusiast`}
+          {`Cybersecurity and coding enthusias`}
         </CybersecurityAndCodi>
         <AboutMe>
         <a href='https://www.figma.com/proto/4VozhPunxEXe4xetDcUKdJ/Untitled?type=design&node-id=1-4&t=5gTkJirRhYgJjNwD-1&scaling=min-zoom&page-id=0%3A1&mode=design'>About me</a>
