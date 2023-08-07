@@ -250,16 +250,6 @@ function Desktop1(props) {
   return (
   
     <Desktop11 className={props.className}>
-      <Head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PGC6GPXTT2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments)};
-  gtag('js', new Date());
-
-  gtag('config', 'G-PGC6GPXTT2');
-</script>
-      </Head>
       <Desktop12>
         <WelcomeToMyPortfolio>
           {`Welcome to my portfolio!`}
