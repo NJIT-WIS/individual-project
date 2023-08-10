@@ -288,7 +288,8 @@ a better job in my field. I love music, sports, psychology and technology`}
 
         </MyNameIsSandraGeorge>
         <Mailchimp>
-        <iframe src="/test.html" width="100%" height="250"></iframe>
+        <iframe src="/test.html" width="100%" height="250"></iframe><br /><br /><br /><br />
+        <iframe src="/policy.html" width="100%" ></iframe>
         </Mailchimp>
        
         <YouCanContactMeUsing>
@@ -313,6 +314,7 @@ a better job in my field. I love music, sports, psychology and technology`}
           loading="lazy"
           alt={'Vector'}
         />
+        
       </Desktop12>
     </Desktop11>
   );
